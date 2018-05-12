@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43211'
     url: http://www.gutenberg.org/2009/agents/43211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45309#The-Cause-of-the-Charge-of-Balaclava
 gutenberg_issued: '2014-04-02'
 gutenberg_type: Text
 identifiers:
